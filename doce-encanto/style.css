@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    color:#9d255d;
+    background-color: #ffbbd2;
+    padding: 20px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 40px;
+    font-family: Ribeye, cursive;
+    text-align: center;
+    color: #6c1e43;
+}
+h2 {
+    font-size: 30px;
+text-align: center;
+margin-top: 30px;
+    color: #6c1e43;
+    font-family: Ribeye, cursive;
+}
+p{
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+     .logo-cupcake {
+        text-align: center;
+        font-size: 100px;
+}
+img {
+    width: 200px;
+    display: block;
+    margin: 10px auto;
+}
